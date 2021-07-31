@@ -1,0 +1,11 @@
+.chores {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 24px;
+  color: rgb(211, 106, 58);
+}
+h3 {
+  text-decoration: underline;
+}
+li {
+  font-style: italic;
+}

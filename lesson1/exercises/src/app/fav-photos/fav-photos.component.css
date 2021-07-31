@@ -1,11 +1,12 @@
 h3 {
-   color: brown;
-}
-
-img {
-
+  color: brown;
 }
 
 .photos {
-   text-align: center;
+  text-align: center;
+}
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
 }
